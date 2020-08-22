@@ -1,1 +1,1 @@
-#### Pytorch 썼습
+#### Used Framework: Pytorch
